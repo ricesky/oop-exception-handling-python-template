@@ -312,7 +312,7 @@ Semua turunan dari `Exception`.
 
 ---
 
-## Soal 5 — Extra: Merancang Sendiri 🔧
+## Soal 5 — Extra: Merancang Sendiri
 
 **Lokasi:** `src/extra/extra.py`
 
